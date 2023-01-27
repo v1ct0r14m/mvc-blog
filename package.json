@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/v1ct0r14m/mvc-blog/issues"
   },
-  "homepage": "https://github.com/v1ct0r14m/mvc-blog#readme"
+  "homepage": "https://github.com/v1ct0r14m/mvc-blog#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "handlebars": "^4.7.7",
+    "mysql2": "^3.0.1"
+  }
 }
